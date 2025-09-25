@@ -1,4 +1,4 @@
--- Pruebas para actividad_aprendizaje
+
 
 -- Ver hoteles registrados
 SELECT * FROM hotel;
