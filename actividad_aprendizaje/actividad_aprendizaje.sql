@@ -1,4 +1,4 @@
--- Usar la base: actividad_aprendizaje
+
 
 -- Tabla Hotel
 CREATE TABLE hotel (
